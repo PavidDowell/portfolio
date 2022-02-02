@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.dd1194ad.chunk.css",
+    "main.js": "/portfolio/static/js/main.04a24fe1.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.04a24fe1.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.1178cb6e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.1178cb6e.js.map",
+    "static/js/2.2a520f5d.chunk.js": "/portfolio/static/js/2.2a520f5d.chunk.js",
+    "static/js/2.2a520f5d.chunk.js.map": "/portfolio/static/js/2.2a520f5d.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.dd1194ad.chunk.css.map": "/portfolio/static/css/main.dd1194ad.chunk.css.map",
+    "static/js/2.2a520f5d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.2a520f5d.chunk.js.LICENSE.txt",
+    "static/media/Thatcham-logo.621721ba.png": "/portfolio/static/media/Thatcham-logo.621721ba.png",
+    "static/media/beautiful-canoe.470f1dd3.png": "/portfolio/static/media/beautiful-canoe.470f1dd3.png",
+    "static/media/dwp-digital-logo.34ceb142.png": "/portfolio/static/media/dwp-digital-logo.34ceb142.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1178cb6e.js",
+    "static/js/2.2a520f5d.chunk.js",
+    "static/css/main.dd1194ad.chunk.css",
+    "static/js/main.04a24fe1.chunk.js"
+  ]
+}
