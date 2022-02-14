@@ -14,9 +14,6 @@ const Header = ({ toggle }) => {
           <NavLink className="menu-item" to="about" smooth={true}>
             About
           </NavLink>
-          <NavLink className="menu-item" to="contact" smooth={true}>
-            Contact
-          </NavLink>
         </NavMenu>
         <NavBtn>
           <a

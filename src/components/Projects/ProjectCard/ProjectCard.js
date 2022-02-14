@@ -1,5 +1,5 @@
 import React from "react";
-import { ExperienceList, ProjectList } from "../../../data/ProjectData";
+import { ExperienceList} from "../../../data/ProjectData";
 import {
   Card,
   CardLeft,
